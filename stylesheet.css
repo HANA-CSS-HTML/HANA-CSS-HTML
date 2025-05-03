@@ -12,10 +12,8 @@ footer {
   text-align: center
 }
 
-h1 {
-  background-color,
-  nav;
-  : #d0d4d7;
+h1, nav {
+  background-color: #d0d4d7;
 }
 
 li {
